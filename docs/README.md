@@ -26,7 +26,7 @@ Output:
 The project is an opportunity to put my Git skills into practice.
 
 # How can users can get started with the project?
-Please see the project's [Code of Conduct](https://github.com/nathandeflavis/github-final-project-part-1/blob/main/docs/CODE_OF_CONDUCT.md) and [Contribution Guidelines](https://github.com/nathandeflavis/github-final-project-part-1/blob/main/docs/CONTRIBUTING.md).
+Please see the project's [Code of Conduct](https://github.com/nathandeflavis/github-final-project-part-2/blob/main/docs/CODE_OF_CONDUCT.md) and [Contribution Guidelines](https://github.com/nathandeflavis/github-final-project-part-2/blob/main/docs/CONTRIBUTING.md).
 
 # Where can users can get help with the project?
 Users can contact the project's maintainers and contributors for help.
